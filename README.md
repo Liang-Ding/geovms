@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1189722798.svg)](https://doi.org/10.5281/zenodo.20594792)
+
 # GeoVMS
 
 **Data-Driven Volcanogenic Massive Sulfide (VMS) Prospectivity Mapping and Uncertainty Quantification**
